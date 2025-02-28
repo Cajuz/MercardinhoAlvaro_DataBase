@@ -1,11 +1,11 @@
 -- apagando banco de dados se existir
-drop database dbpadaria;
+drop database dbmercadinho;
 -- criando banco de dados 
 
-create database dbpadaria;
+create database dbmercadinho;
 -- acessar o banco de dados
 
-use dbpadaria;
+use dbmercadinho;
 --criando as tabelas no banco de dados
 
 create table tbClientes(
